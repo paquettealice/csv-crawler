@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "mithril": "^1.0.0",
-    "webpack": "^2.2.1"
+    "webpack": "^2.2.0-rc.3"
   }
 }
